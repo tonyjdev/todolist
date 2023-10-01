@@ -5,9 +5,14 @@ Tiny Todo-List made with:
 - [Livewire 3](https://livewire.laravel.com/)
 - [Bootstrap 5](https://getbootstrap.com/)
 
+What you can do:
+- Create tasks
+- Complete tasks
+- Remove completed tasks
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/resources/img/todo-list.png)
 
 ## Requirements
 - Composer
