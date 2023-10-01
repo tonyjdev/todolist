@@ -5,6 +5,10 @@ Tiny Todo-List made with:
 - [Livewire 3](https://livewire.laravel.com/)
 - [Bootstrap 5](https://getbootstrap.com/)
 
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 ## Requirements
 - Composer
 - Node
@@ -44,6 +48,7 @@ php artisan migrate
 ```
 php artisan serve
 ```
-
 ## License
-MIT
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
